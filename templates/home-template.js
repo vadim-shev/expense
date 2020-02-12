@@ -1,0 +1,5 @@
+const HomeTemplate = `
+	
+`
+
+export { HomeTemplate }
